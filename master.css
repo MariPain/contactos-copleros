@@ -1,0 +1,79 @@
+body {
+  background-color: rgba(12, 157, 249, .75)
+}
+
+.name {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 25px;
+  color: rgba(43, 43, 46, 1);
+}
+
+.address {
+  font-family: 'Istok Web', sans-serif;
+  font-size: 20px;
+  color: rgba(126, 127, 131, 1);
+}
+
+.contactos-copleros {
+  background-color: white;
+  margin: 10%;
+  padding: 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#fary {
+  border-radius: 100%;
+  width: 150px;
+}
+
+#manolo {
+  border-radius: 100%;
+  width: 150px;
+}
+
+#rocio {
+  border-radius: 100%;
+  width: 150px;
+}
+
+#lola {
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+}
+
+.fary {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  padding: 2%;
+}
+
+.texto {
+  display: flex;
+  flex-direction: column;
+  padding: 5%;
+}
+
+.manolo {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  padding: 2%;
+}
+
+.rocio {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  padding: 2%;
+}
+
+.lola {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  padding: 2%;
+}
